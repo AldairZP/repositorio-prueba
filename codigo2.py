@@ -1,2 +1,2 @@
-nombre = "jose"
+nombre = "Camilo"
 apellido = "morales"
